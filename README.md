@@ -1,0 +1,2 @@
+# ptext
+Python Text Editor
